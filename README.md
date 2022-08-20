@@ -1,5 +1,3 @@
-<h2 align="center">
-    Welcome to <strong>Anant's </strong>profile!
 </h2>
 <p align="center">
 <br>

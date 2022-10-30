@@ -14,7 +14,8 @@
 <img alt="spotify"src="https://spotify-github-profile.vercel.app/api/view?uid=31xns52yxwixmabkhfy34bdjwzyu&cover_image=true&theme=novatorem&show_offline=false&bar_color=fafffa&bar_color_cover=false"</div>
 
   
-## 🔖 My Statistics
+<details>
+    <summary>🔖 My Statistics</summary>
 &nbsp;
 <p align="center">
     <a href="https://github.com/anant1337/">

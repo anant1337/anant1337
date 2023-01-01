@@ -6,7 +6,7 @@
 </h2>
 <p align="center">
 <br>
-<img alt="status"src="https://discord.c99.nl/widget/theme-4/1029788553460334692.png"</div>
+<img alt="status"src="https://discord.c99.nl/widget/theme-4/1058406366580051978.png"</div>
 
 </h2>
 <p align="center">

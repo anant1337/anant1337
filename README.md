@@ -11,7 +11,7 @@
 </h2>
 <p align="center">
 <br>
-<img alt="spotify"src="https://spotify-github-profile.vercel.app/api/view?uid=317inhuljheipkekyiuccvflh4oq&cover_image=true&theme=novatorem&show_offline=true&bar_color=fafffa&bar_color_cover=false"</div>
+<img alt="spotify"src="https://spotify-github-profile.vercel.app/api/view?uid=317inhuljheipkekyiuccvflh4oq&cover_image=true&theme=novatorem&show_offline=false&bar_color=fafffa&bar_color_cover=false"</div>
 
   
 <details>
